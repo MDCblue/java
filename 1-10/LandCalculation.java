@@ -1,9 +1,16 @@
 /*
-Write a program that calculates how much a student organization earns
-during its fund raising candy sale. The program should prompt the user
-to enter the number of candy bars sold and the amount the organization
-earns for each bar sold. It should then calculate and display the total
-amount earned.
+
+  In the United States, land is often measured in
+  square feet. In many other countries it is measured
+  in square meters. One acre of land is equivalent to
+  43,560 square feet. A square meter is equivalent to
+  10.7639 square feet. Write a program that computes
+  and displays the number of square feet and the number
+  of square meters ¼ in acre of land. Hint: Because a
+  square meter is larger than a square foot, there will
+  be fewer square meters in ¼ acre than there are
+  square feet.
+  
 Author: Carlos Abraham, @19cah
 www.19cah.com
 */
