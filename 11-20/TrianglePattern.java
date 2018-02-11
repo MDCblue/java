@@ -1,11 +1,10 @@
 /*
-Write a program that displays the
-following information, each on a separate line:
+Write a program that displays the following pattern on the screen:
 
-  Your name
-  Your address, with city, state, and zip code
-  Your telephone number
-  Your college major
+   *
+  ***
+ *****
+*******
 
 Author: Carlos Abraham, @19cah
 www.19cah.com
